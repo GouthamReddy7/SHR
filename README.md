@@ -26,7 +26,14 @@ to patient and also has the doctor list and patient list.
 Cloud login then maintains the details of uploaded files,
 doctor information,doctor list, hash data and patient list.
 
+**SAMPLE SCREENSHOTS**
 
-
-
-
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/0660b518-9337-4254-99ef-07b1c3866ef5)
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/8c7b6867-246d-4501-8329-3b007bf3d8df)
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/aaa30ba4-f263-4ba6-942c-3e6efa8eb5d1)
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/9b883b85-fc18-4c81-a582-c54dc2fe60bb)
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/392e723a-aebb-489a-81e5-7bd4afacbccb)
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/c74da950-da4a-4c91-ae5b-24829c6125a8)
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/e31c65e2-c5f1-48fd-aae4-f5907c363d2e)
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/f59ee43c-3a49-4dc2-8ed9-5f0891095edc)
+![image](https://github.com/GouthamReddy7/SHR/assets/103408607/b4a0dcab-008b-4ee3-a452-fcec129d68a0)
